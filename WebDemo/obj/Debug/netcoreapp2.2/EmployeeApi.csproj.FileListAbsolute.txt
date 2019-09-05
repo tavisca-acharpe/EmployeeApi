@@ -1,0 +1,14 @@
+C:\Users\acharpe\source\repos\WebDemo\WebDemo\bin\Debug\netcoreapp2.2\EmployeeApi.deps.json
+C:\Users\acharpe\source\repos\WebDemo\WebDemo\bin\Debug\netcoreapp2.2\EmployeeApi.runtimeconfig.json
+C:\Users\acharpe\source\repos\WebDemo\WebDemo\bin\Debug\netcoreapp2.2\EmployeeApi.runtimeconfig.dev.json
+C:\Users\acharpe\source\repos\WebDemo\WebDemo\bin\Debug\netcoreapp2.2\EmployeeApi.dll
+C:\Users\acharpe\source\repos\WebDemo\WebDemo\bin\Debug\netcoreapp2.2\EmployeeApi.pdb
+C:\Users\acharpe\source\repos\WebDemo\WebDemo\obj\Debug\netcoreapp2.2\EmployeeApi.csprojAssemblyReference.cache
+C:\Users\acharpe\source\repos\WebDemo\WebDemo\obj\Debug\netcoreapp2.2\EmployeeApi.csproj.CoreCompileInputs.cache
+C:\Users\acharpe\source\repos\WebDemo\WebDemo\obj\Debug\netcoreapp2.2\EmployeeApi.RazorAssemblyInfo.cache
+C:\Users\acharpe\source\repos\WebDemo\WebDemo\obj\Debug\netcoreapp2.2\EmployeeApi.RazorAssemblyInfo.cs
+C:\Users\acharpe\source\repos\WebDemo\WebDemo\obj\Debug\netcoreapp2.2\EmployeeApi.AssemblyInfoInputs.cache
+C:\Users\acharpe\source\repos\WebDemo\WebDemo\obj\Debug\netcoreapp2.2\EmployeeApi.AssemblyInfo.cs
+C:\Users\acharpe\source\repos\WebDemo\WebDemo\obj\Debug\netcoreapp2.2\EmployeeApi.RazorTargetAssemblyInfo.cache
+C:\Users\acharpe\source\repos\WebDemo\WebDemo\obj\Debug\netcoreapp2.2\EmployeeApi.dll
+C:\Users\acharpe\source\repos\WebDemo\WebDemo\obj\Debug\netcoreapp2.2\EmployeeApi.pdb
