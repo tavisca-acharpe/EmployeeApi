@@ -16,14 +16,14 @@ namespace WebDemo.Controllers
 
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<Employee>> Get()
+        public List<Employee> Get()
         {
             return listEmployees;
         }
 
         // GET api/values/5
         [HttpGet("{id}")]
-        public ActionResult<Employee> Get(int id)
+        public Employee Get(int id)
         {
             return listEmployees[id - 1];
         }
@@ -40,7 +40,8 @@ namespace WebDemo.Controllers
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] Employee value)
         {
-            listEmployees[id] = value;
+            listEmployees[id-1] = value;
+            listEmployees[id - 1].id = id;
         }
 
         // DELETE api/values/5

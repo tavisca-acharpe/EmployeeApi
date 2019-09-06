@@ -1,0 +1,17 @@
+C:\Users\acharpe\source\repos\EmployeeApi\EmployeeApiTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\acharpe\source\repos\EmployeeApi\EmployeeApiTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\acharpe\source\repos\EmployeeApi\EmployeeApiTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\acharpe\source\repos\EmployeeApi\EmployeeApiTest\bin\Debug\netcoreapp2.2\EmployeeApiTest.deps.json
+C:\Users\acharpe\source\repos\EmployeeApi\EmployeeApiTest\bin\Debug\netcoreapp2.2\EmployeeApiTest.runtimeconfig.json
+C:\Users\acharpe\source\repos\EmployeeApi\EmployeeApiTest\bin\Debug\netcoreapp2.2\EmployeeApiTest.runtimeconfig.dev.json
+C:\Users\acharpe\source\repos\EmployeeApi\EmployeeApiTest\bin\Debug\netcoreapp2.2\EmployeeApiTest.dll
+C:\Users\acharpe\source\repos\EmployeeApi\EmployeeApiTest\bin\Debug\netcoreapp2.2\EmployeeApiTest.pdb
+C:\Users\acharpe\source\repos\EmployeeApi\EmployeeApiTest\bin\Debug\netcoreapp2.2\WebDemo.dll
+C:\Users\acharpe\source\repos\EmployeeApi\EmployeeApiTest\bin\Debug\netcoreapp2.2\WebDemo.pdb
+C:\Users\acharpe\source\repos\EmployeeApi\EmployeeApiTest\obj\Debug\netcoreapp2.2\EmployeeApiTest.csprojAssemblyReference.cache
+C:\Users\acharpe\source\repos\EmployeeApi\EmployeeApiTest\obj\Debug\netcoreapp2.2\EmployeeApiTest.csproj.CoreCompileInputs.cache
+C:\Users\acharpe\source\repos\EmployeeApi\EmployeeApiTest\obj\Debug\netcoreapp2.2\EmployeeApiTest.AssemblyInfoInputs.cache
+C:\Users\acharpe\source\repos\EmployeeApi\EmployeeApiTest\obj\Debug\netcoreapp2.2\EmployeeApiTest.AssemblyInfo.cs
+C:\Users\acharpe\source\repos\EmployeeApi\EmployeeApiTest\obj\Debug\netcoreapp2.2\EmployeeApiTest.csproj.CopyComplete
+C:\Users\acharpe\source\repos\EmployeeApi\EmployeeApiTest\obj\Debug\netcoreapp2.2\EmployeeApiTest.dll
+C:\Users\acharpe\source\repos\EmployeeApi\EmployeeApiTest\obj\Debug\netcoreapp2.2\EmployeeApiTest.pdb
