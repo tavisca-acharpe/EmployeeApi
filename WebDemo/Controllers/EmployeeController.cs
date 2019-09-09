@@ -11,7 +11,7 @@ namespace WebDemo.Controllers
     [ApiController]
     public class EmployeeController : ControllerBase
     {
-        public static List<Employee> listEmployees = new List<Employee>();
+        public static  List<Employee> listEmployees = new List<Employee>();
         static int newId = 1;
 
         // GET api/values
@@ -48,7 +48,7 @@ namespace WebDemo.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
-            listEmployees.RemoveAt(id);
+            listEmployees.RemoveAt(id-1);
         }
     }
 }

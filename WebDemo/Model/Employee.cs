@@ -12,6 +12,6 @@ namespace WebDemo.Model
         public int salary { get; set; }
         public int Age { get; set; }
         public string Designation { get; set; }
-        public int DesignationId { get; set; }
+        public int TeamId { get; set; }
     }
 }

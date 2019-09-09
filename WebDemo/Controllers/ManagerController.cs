@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using WebDemo.Controllers;
 using WebDemo.Model;
 
-namespace WebDemo.Controllers
+namespace WebDemo.Controllers 
 {
     [Route("[controller]")]
     [ApiController]
@@ -16,9 +16,9 @@ namespace WebDemo.Controllers
         public List<Employee> listManager = new List<Employee>();
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<Employee>> Get()
+        public List<Employee> Get()
         {
-            foreach(var item in WebDemo.Controllers.EmployeeController.listEmployees)
+            foreach (var item in EmployeeController.listEmployees)
             {
                 if (item.Designation.Equals("Manager"))
                     listManager.Add(item);
@@ -27,15 +27,14 @@ namespace WebDemo.Controllers
         }
 
         [HttpGet("{id}")]
-        public ActionResult<IEnumerable<Employee>> Get(int id)
+        public List<Employee> Get(int id)
         {
-            foreach (var item in WebDemo.Controllers.EmployeeController.listEmployees)
+            foreach (var item in EmployeeController.listEmployees)
             {
-                if (item.DesignationId==id && !item.Designation.Equals("Manager"))
+                if (item.TeamId == id && !item.Designation.Equals("Manager"))
                     listManager.Add(item);
             }
             return listManager;
         }
-
     }
 }
